@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "ca8f92bbf447e17a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9365a254cdfb283b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46e9f64512dee268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Mimir's Well/Pythagorean Theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pythagorean Theorem"
+            }
+          },
+          {
+            "id": "ba0d064eb2d8e2ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Mimir's Well/Quadratic Formula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quadratic Formula"
+            }
+          },
+          {
+            "id": "c03269776ac8192c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Mimir's Well/Coterminal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coterminal"
+            }
+          },
+          {
+            "id": "848cd264c7bdf4f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/About me.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About me"
+            }
+          },
+          {
+            "id": "3e706308af97d1c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Mimir's Well/Radians.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Radians"
+            }
+          },
+          {
+            "id": "3609fdfae901f5eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/GitHub README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub README"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f972810e0ca3ece3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f7e7e27a4693a8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93fd7b0c90c0506c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "70ae46644afc2b39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "angle",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef0bb4126b58ff6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2f98c4803b2b555c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1384ec9741b012ec",
+        "type": "tabs",
+        "dimension": 34.02777777777778,
+        "children": [
+          {
+            "id": "1f0b332ef7163129",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2b4cde9735ad398b",
+        "type": "tabs",
+        "dimension": 65.97222222222221,
+        "children": [
+          {
+            "id": "05301a34b4d6b3dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Mimir's Well/Arcsine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Arcsine"
+            }
+          },
+          {
+            "id": "855c4457316e1fa6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Mimir's Well/Arcsine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Arcsine"
+            }
+          },
+          {
+            "id": "84cb27d36b24670b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a4dce318c5c09af4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/GitHub README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GitHub README"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "3609fdfae901f5eb",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Projects/TAS_ChronoLog",
+    "Templates/GitHub README.md",
+    "Templates/GitHub TECHNICALDOC.md",
+    "Obsidian Cheat Sheet.md",
+    "Rocky Horror Pi.md",
+    "Attachments/RHPSCallout.pdf",
+    "Projects/Mimir's Well/Radians.md",
+    "Projects/Mimir's Well/Arcsine.md",
+    "Projects/Mimir's Well/Arctangent.md",
+    "Projects/Mimir's Well/Arccosine.md",
+    "Projects/Mimir's Well/Math Symbols.md",
+    "Projects/Mimir's Well/Surjective Function.md",
+    "Projects/Mimir's Well/Inverse Function.md",
+    "Projects/Mimir's Well/Injective Function.md",
+    "Projects/Mimir's Well/Mathematical Composition.md",
+    "Projects/Mimir's Well/Trigonometric Functions.md",
+    "Projects/Mimir's Well/Toolbox Functions.md",
+    "Projects/Mimir's Well/Maths.md",
+    "Projects/Mimir's Well/Distance Formula.md",
+    "Projects/Mimir's Well/Fractions.md",
+    "Projects/Mimir's Well/Exponents.md",
+    "Projects/Mimir's Well/Quadratic Formula.md",
+    "Projects/Mimir's Well/Equation of a Circle.md",
+    "Projects/Mimir's Well/Exponential Functions.md",
+    "Projects/Mimir's Well/Pythagorean Theorem.md",
+    "Projects/Mimir's Well/Midpoint Formula.md",
+    "Attachments/Pasted image 20240721195858.jpg",
+    "Attachments/Pasted image 20240721193318.jpg",
+    "Attachments/Pasted image 20240721182408.jpg",
+    "Attachments/Pasted image 20240721181741.jpg",
+    "Attachments/Pasted image 20240721181324.jpg",
+    "Attachments/Pasted image 20240721180456.jpg",
+    "Attachments/Pasted image 20240721180443.jpg",
+    "Attachments/Pasted image 20240721175710.jpg",
+    "Attachments/Pasted image 20240721175516.jpg",
+    "Attachments/Pasted image 20240714133556.png",
+    "Projects/Mimir's Well",
+    "Projects/Mímisbrunnr",
+    "Attachments/turtleshell.mp4",
+    "Projects/Reviews/Books",
+    "Adventures",
+    "Templates",
+    "Front Backend",
+    "Attachments/giphy-1806103948.gif.crdownload"
+  ]
+}
