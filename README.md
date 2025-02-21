@@ -1,2 +1,2 @@
 # mikeymannmade.md
- These are the Obdisian Markdown files for my website.
+ These are the Obsidian Markdown files for my website.
